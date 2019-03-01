@@ -2,3 +2,4 @@ https://ukr.net
 https://korrespondent.net
 https://facebook.com
 https://2ip.com.ua
+https://zone18-diagnostichub.internal.renaissance-golabs.com/diagnostichub/Home/ProxyData?endpoint=https://global-zone18.renaissance-golabs.com/tagfilter/ComponentDiagnostics
